@@ -10,3 +10,5 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected readonly title = signal('hellong');
 }
+
+var unused: any = 1;
